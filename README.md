@@ -30,7 +30,7 @@ A estrutura segue a organização de conteúdos conforme as aulas do curso:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/MarcusFerreira/<nome-do-repositorio>.git
+   git clone https://github.com/MarcusFerreira/site-responsivo.git
 
 2. Navegue até a pasta desejada:
 
